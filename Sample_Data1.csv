@@ -1,0 +1,24 @@
+Employee ID,Username,Clients,Revenue,FullName,First Name,Surname,JobTitle,Hire Date,Sales,Location
+A189678,T.Edmunds,34,"$489,605 ",Terrell Edmunds,Terrell,Edmunds,Operations,20-Jan-97,217,Stafford
+A189679,T.Edmunds,33,"$450,856 ",Trey Edmunds,Trey,Edmunds,Operations,30-Dec-94,223,Sacramento
+A189693,J.Layne,31,"$405,635 ",Justin Layne,Justin,Layne,Operations,12-Jan-98,192,Albuquerque
+A189669,J.Conner,30,"$389,098 ",James Conner,James,Conner,Operations,5-May-95,233,San Diego
+A189708,W.Smallwood,29,"$358,005 ",Wendell Smallwood,Wendell,Smallwood,Operations,29-Jan-94,208,Wilmington
+A189691,M.Hilton,28,"$308,997 ",Mike Hilton,Mike,Hilton,Manager,9-Mar-94,184,New York
+A189657,M.Allen,27,"$280,896 ",Marcus Allen,Marcus,Allen,Operations,7-Aug-96,215,Wilmington
+A189697,A.McFarland,26,"$189,609 ",Anthony McFarland,Anthony,McFarland,Operations,4-Mar-99,208,New York
+A189662,A.Brooks,25,"$130,808 ",Antoine Brooks,Antoine,Brooks,Operations,28-Oct-97,220,San Diego
+A189686,J.Haden,23,"$127,886 ",Joe Haden,Joe,Haden,Operations,14-Apr-89,190,New York
+A189699,S.Nelson,22,"$126,878 ",Steven Nelson,Steven,Nelson,Operations,22-Jan-93,199,Wilmington
+A189672,S.Davis,21,"$125,530 ",Sean Davis,Sean,Davis,Service Desk,23-Oct-93,201,Remote
+A189709,J.Smith-Schuster,19,"$108,888 ",JuJu Smith-Schuster,JuJu,Smith-Schuster,Service Desk,22-Nov-96,215,Remote
+A189692,D.Johnson,18,"$89,055 ",Diontae Johnson,Diontae,Johnson,Service Desk,5-Jul-96,183,Albuquerque
+A189665,D.Cain,17,"$80,578 ",Deon Cain,Deon,Cain,Service Desk,9-Aug-96,202,Remote
+A189695,R.McCloud,14,"$78,056 ",Ray-Ray McCloud,Ray-Ray,McCloud,Manager,15-Oct-96,190,Sacramento
+A189667,C.Claypool,11,"$69,055 ",Chase Claypool,Chase,Claypool,Service Desk,7-Jul-98,238,Remote
+A189661,C.Boswell,9,"$64,517 ",Chris Boswell,Chris,Boswell,Service Desk,16-Mar-91,185,Remote
+A189704,B.Roethlisberger,7,"$64,512 ",Ben Roethlisberger,Ben,Roethlisberger,Service Desk,2-Mar-82,240,Albuquerque
+A189674,J.Dobbs,5,"$5,989 ",Joshua Dobbs,Joshua,Dobbs,Service Desk,26-Jan-95,216,Remote
+A189660,J.Berry,4,"$4,905 ",Jordan Berry,Jordan,Berry,Service Desk,18-Mar-91,195,Sacramento
+A189668,D.Colquitt,4,"$4,835 ",Dustin Colquitt,Dustin,Colquitt,Service Desk,6-May-82,211,Remote
+A189705,M.Rudolph,2,"$2,335 ",Mason Rudolph,Mason,Rudolph,Service Desk,17-Jul-95,235,Remote
